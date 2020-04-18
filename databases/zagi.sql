@@ -8,16 +8,16 @@ GO
 IF NOT EXISTS (
     SELECT [name]
         FROM sys.databases
-        WHERE [name] = N'Zagi'
+        WHERE [name] = N'ZagiAudience'
 )
-CREATE DATABASE Zagi
+CREATE DATABASE ZagiAudience
 GO
 
 /*
 * Create Tables
 */
 
-USE Zagi
+USE ZagiAudience
 
 CREATE TABLE category
 (       categoryid      CHAR(2)                 NOT NULL,
