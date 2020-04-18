@@ -8,14 +8,14 @@ In this repository, you will find everything about SQL session of this bootcamp,
 
 Following is the plan for the Bootcamp.
 
-Time/ Slot  | Description
------------ | -------------------------
-1 PM        | Begining of the Bootcamp!
-1 PM - 2 PM | Knowledge refreshing session. We will go through database terms, relational model, and SQL. We will use Zagi, and Homeaway databases.
-2 PM - 5 PM | We will examine the Adventureworks database. Looking into questions about the database, we will write the SQL for them.
-5 PM        | End of Bootcamp.
+Time/ Slot           | Description
+:------------------- | :-------------------------------
+1 PM                 | Begining of the Bootcamp!
+1 PM - 2 PM          | Knowledge refreshing session. We will go through database terms, relational model, and SQL. We will use Zagi, and Homeaway databases.
+2 PM - 5 PM          | We will examine the Adventureworks database. Looking into questions about the database, we will write the SQL for them.
+5 PM                 | End of Bootcamp.
 
-Get ready, fork this repository to your GitHub account, if you don't have one, go ahead and create it. Use your fork of this repository as your personal notes, edit your queries, do anything! 
+Get ready, **fork this repository** to your GitHub account, if you don't have one, go ahead and create it. Use your fork of this repository as your **personal notes, edit your queries**, do anything! 
 
 ## Table of Contents
 
