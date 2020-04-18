@@ -32,7 +32,7 @@ However, for Bootcamp, we already set up a database for you to interact with it.
 
 ### Connecting to SQL Server from Azure
 
-Thanks to Dr. Gilkey, we have a cloud database setup in SPU's Google cloud account to use during this Bootcamp. 
+Thanks to **Dr. Gilkey**, we have a cloud database setup in SPU's Google cloud account to use during this Bootcamp. 
 
 To connect to this database, you will use the following IP address. I will guide you what to do with this.
 
@@ -64,7 +64,7 @@ Using with Azure Data Studio is like following.
 
 This way, both mac users and windows users will be able to access the resources we have for this Bootcamp!
 
-### Installing Database
+<h3> Installing Database </h3>
 
 #### SQL Server Express Edition Install Guide For Windows Users
 
