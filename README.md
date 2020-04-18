@@ -1,6 +1,6 @@
-# SPU Bootcamp of 2020 - SQL
+# :hammer: SPU Bootcamp of 2020 - SQL :tea::rainbow:
 
-Welcome to Saint Peter's University (SPU) Bootcamp for 2020! 
+**Welcome** to Saint Peter's University (SPU) Bootcamp for 2020! 
 
 During this bootcamp, session, you will learn more on Python, and SQL. Here, we will be looking into how we can utilize SQL in terms of business analytics and data science.
 
