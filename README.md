@@ -60,7 +60,7 @@ You can access to the database using SSMS in the following way.
 
 Using with Azure Data Studio is like following.
 
-![ads-login](assets/ads.png)
+![ads-login](assets/azure-data-studio.png)
 
 <h3> Installing Database </h3>
 
