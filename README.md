@@ -38,7 +38,7 @@ To connect to this database, you will use the following IP address. I will guide
 
 > 35.232.179.58
 
-Your IP address needed to give you access to the server, thats why go ahead and type [what is my ip address?](https://www.google.com/search?q=what+is+my+ip+address) to Google and you will know your IP address! When I ask your IP addresses, this is the link to follow!
+Cloud resources are highly protected and **you won't be able to access** to the database unless I **add your IP** to the safe list. Thats why your IP address needed to give you access to the server. Go ahead and type [what is my ip address?](https://www.google.com/search?q=what+is+my+ip+address) to Google and you will know your IP address! When I ask your IP addresses, this is the link to follow!
 
 As a backup server, I have set up another server in case we have a problem with the main one. That server address is the following.
 
