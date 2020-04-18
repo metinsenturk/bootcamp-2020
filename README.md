@@ -52,7 +52,7 @@ If all fails, we will going to install SQL Server Express Edition to our compute
 
 In order to access the database, we need either [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) or [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15). 
 
-You can go ahead and download these if you didn't download it already.
+You can go ahead and download these if you didn't download it already. Both mac users and windows users will be able to access the resources we have for this Bootcamp!
 
 You can access to the database using SSMS in the following way.
 
@@ -60,9 +60,7 @@ You can access to the database using SSMS in the following way.
 
 Using with Azure Data Studio is like following.
 
-![ads login](assets/ads-login.png)
-
-This way, both mac users and windows users will be able to access the resources we have for this Bootcamp!
+![ads-login](assets/ads-login.png)
 
 <h3> Installing Database </h3>
 
