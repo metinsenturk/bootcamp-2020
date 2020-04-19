@@ -82,7 +82,7 @@ To practice on your own, install SQL Server Express Edition and follow the guide
 
 Once you create the AdventureWorks database, use the notebooks in `queries` folder to work with the Database.
 
-Answers for the queries are in [queries-solutions branch of this repository](https://github.com/metinsenturk/bootcamp-2020/tree/queries-solutions). I recommend going through all of them, not only with the SQL, but also understanding the business logic.
+**Answers** for the queries are in [queries-solutions branch of this repository](https://github.com/metinsenturk/bootcamp-2020/tree/queries-solutions). I recommend going through all of them, not only with the SQL, but also understanding the business logic.
 
 Remember, most essential skill is **not only writing the SQL**, but to **interpret the business task** in database language and find the right data within the relations built in the database.
 
