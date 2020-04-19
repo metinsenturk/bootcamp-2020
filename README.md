@@ -2,6 +2,8 @@
 
 **Welcome** to Saint Peter's University (SPU) Bootcamp for 2020! 
 
+:bangbang::bulb: **Answers** for the queries are in [queries-solutions branch of this repository](https://github.com/metinsenturk/bootcamp-2020/tree/queries-solutions/queries). :bulb::bangbang:
+
 During this bootcamp, session, you will learn more on Python, and SQL. Here, we will be looking into how we can utilize SQL in terms of business analytics and data science.
 
 In this repository, you will find everything about SQL session of this bootcamp, along with presentations, and how-to guides. We will use this repository during the bootcamp as well, we will add answers or your discussions for your later use.
